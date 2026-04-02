@@ -1,0 +1,36 @@
+.page__content {
+  h1,
+  h2 {
+    margin-top: 1.8rem;
+    margin-bottom: 0.8rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 2px solid #d8efe4;
+  }
+
+  p,
+  li {
+    line-height: 1.75;
+  }
+}
+
+.archive__item {
+  border: 1px solid #e7ecef;
+  border-radius: 10px;
+  padding: 0.9rem 1rem;
+  margin-bottom: 0.9rem;
+  background: #fcfefd;
+}
+
+.archive__item-title {
+  font-weight: 600;
+}
+
+.author__avatar img,
+img.author__avatar {
+  border-radius: 12px;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
+}
+
+.author__urls li a:hover {
+  text-decoration: underline;
+}

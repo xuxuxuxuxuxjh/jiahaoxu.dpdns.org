@@ -32,6 +32,13 @@ Selected Publications
   *npj Digital Medicine* (under review).  
   [Preprint](https://arxiv.org/abs/2508.15189)
 
+- **A Modular Multimodal Language Model for Radiation Oncology**  
+  *IEEE NSS/MIC/RTSD 2025*.
+
+- **A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers**  
+  *arXiv 2025*.  
+  [Preprint](https://arxiv.org/abs/2508.21148)
+
 Selected Research Experience
 ======
 - **Surgical Wound Monitoring**, Ohio State University (Mar 2025 - Present)  

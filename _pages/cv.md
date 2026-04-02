@@ -11,54 +11,59 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Wuhan University**, Wuhan, China (Sep 2022 - Present)  
+  B.E. in Computer Science, Hongyi Honor College  
+  Expected graduation: Jun 2026  
+  GPA: **3.90/4.00** (91/100)
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Surgical Wound Monitoring**, Ohio State University (Mar 2025 - Present)  
+  Internship, Supervisor: Prof. Ping Zhang  
+  Proposed an open-source surgical wound benchmark and trained a surgical MLLM based on Qwen2.5-VL-7B.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Voice-controlled Surgical VLM**, Harvard University (Mar 2025 - Jun 2025)  
+  Internship, Supervisors: Prof. Jax Luo and Nazim Haouchine  
+  Built a complete pipeline with speech-to-text, VLM agent, and text-to-speech, plus a Gradio WebUI.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Multimodal Medical LLM with Reasoning Capability**, Shanghai AI Lab (Feb 2025 - May 2025)  
+  Internship, Supervisors: Prof. Diping Song and Junjun He  
+  Studied CoT and GRPO-based training; supported evaluation pipelines in OpenCompass and VLMEvalKit.
+
+* **Detection of Mental Disorders Based on 3D Brain Shape Data**, Columbia University (Sep 2024 - Mar 2025)  
+  Remote Internship, Supervisor: Prof. Zhishun Wang  
+  Adapted point-cloud architectures for large-scale cortical data and achieved around 85% classification accuracy on UCLA data.
+
+* **Lightweight Skin Lesion Segmentation based on Boundary Assistance**, Wuhan University (Mar 2023 - Mar 2024)  
+  Internship, Supervisors: Prof. Bo Du and Lyuyang Tong  
+  Proposed LB-UNet and achieved strong performance on ISIC datasets under extreme parameter constraints.
+
+Honors and Awards
+======
+* National Scholarship Award (2023-2024)
+* Lei-Jun Computer Science Scholarship, 1st place (2022-2023)
+* First-Class Scholarship (Top 3%), Wuhan University (2023, 2024)
+* ICPC Asia Regional Gold Medal x5 (Nanjing, Shenyang, Jinan, Shanghai 2024, Shanghai 2025)
+* ICPC East Asia Final Silver Medal (2024)
+* CCPC Final Silver Medal (2025)
+* Captain of the ACM-ICPC Training Team, Wuhan University (2023-2024)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: C/C++, Python, Java
+* Deep Learning: PyTorch
+* Focus Areas: Medical imaging, multimodal LLMs, medical reasoning
+* Tooling: OpenCompass, VLMEvalKit, Gradio
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Contact
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Email: [jiahaoxu@whu.edu.cn](mailto:jiahaoxu@whu.edu.cn)
+* GitHub: [xuxuxuxuxuxjh](https://github.com/xuxuxuxuxuxjh)
+* Google Scholar: [Profile](https://scholar.google.com/citations?hl=en&user=6GSTIdwAAAAJ)
+* LinkedIn: [jiahao-xu-43a7ab2b7](https://www.linkedin.com/in/jiahao-xu-43a7ab2b7/)
