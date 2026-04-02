@@ -1,13 +1,15 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "SurgWound-Bench: A Benchmark for Surgical Wound Diagnosis"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/surgwound-bench
+excerpt: "An open benchmark for surgical wound diagnosis and multimodal reasoning."
+date: 2025-08-01
+venue: "npj Digital Medicine (under review)"
+paperurl: "https://arxiv.org/abs/2508.15189"
+citation: "Xu, J., Yin, C., Chatzipanagiotou, O., Tsilimigras, D., Clear, K., Yao, B., Wang, D., Pawlik, T., Zhang, P. (2025). &quot;SurgWound-Bench: A Benchmark for Surgical Wound Diagnosis.&quot; <i>npj Digital Medicine</i> (under review)."
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+SurgWound-Bench introduces an open benchmark for surgical wound diagnosis and supports evaluation of multimodal medical reasoning systems.
+
+The project includes data curation, benchmark design, and model development for practical surgical wound understanding.

@@ -1,13 +1,15 @@
 ---
-title: "Paper Title Number 4"
+title: "LB-UNet: A Lightweight Boundary-Assisted UNet for Skin Lesion Segmentation"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/lb-unet-miccai-2024
+excerpt: "A lightweight boundary-assisted UNet for accurate skin lesion segmentation on resource-limited devices."
+date: 2024-01-01
+venue: "MICCAI 2024"
+paperurl: "https://link.springer.com/chapter/10.1007/978-3-031-72114-4_35"
+citation: "Xu, J., Tong, L. (2024). &quot;LB-UNet: A Lightweight Boundary-Assisted UNet for Skin Lesion Segmentation.&quot; <i>MICCAI 2024</i>."
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This work proposes **LB-UNet**, a lightweight segmentation model designed for skin lesion analysis with strong boundary awareness under strict parameter constraints.
+
+The model achieved strong performance on ISIC2017 and ISIC2018 while remaining compact for mobile and resource-limited scenarios.
