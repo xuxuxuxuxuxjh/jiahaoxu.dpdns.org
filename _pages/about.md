@@ -20,24 +20,25 @@ Research Interests
 Education
 ======
 - **Wuhan University**, B.E. in Computer Science (Hongyi Honor College), Sep 2022 - Jun 2026  
-  GPA: **3.90/4.00** (91/100)
+  GPA: **3.91/4.00** (91/100)
 
 Selected Publications
 ======
 - **LB-UNet: A Lightweight Boundary-Assisted UNet for Skin Lesion Segmentation**  
   *MICCAI 2024*.  
-  [Paper](https://link.springer.com/chapter/10.1007/978-3-031-72114-4_35)
+  [Paper](https://link.springer.com/chapter/10.1007/978-3-031-72114-4_35) | [Code](https://github.com/xuxuxuxuxuxjh/LB-UNet)
 
 - **SurgWound-Bench: A Benchmark for Surgical Wound Diagnosis**  
-  *npj Digital Medicine* (accepted).  
-  [Preprint](https://arxiv.org/abs/2508.15189)
+  *npj Digital Medicine* (2026).  
+  [Published Paper](https://doi.org/10.1038/s41746-026-02791-3) | [Preprint](https://arxiv.org/abs/2508.15189) | [Code](https://github.com/xuxuxuxuxuxjh/SurgWound) | [Dataset](https://huggingface.co/datasets/xuxuxuxuxu/SurgWound)
+
+- **Intracranial Aneurysm Detection by Guessing**  
+  *Medical Imaging 2026: Clinical and Biomedical Imaging*.  
+  [Paper](https://doi.org/10.1117/12.3087283)
 
 - **A Modular Multimodal Language Model for Radiation Oncology**  
-  *IEEE NSS/MIC/RTSD 2025*.
-
-- **A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers**  
-  *arXiv 2025*.  
-  [Preprint](https://arxiv.org/abs/2508.21148)
+  *IEEE NSS/MIC/RTSD 2025*.  
+  [Paper](https://doi.org/10.1109/nss/mic/rtsd57106.2025.11287135)
 
 Selected Research Experience
 ======
