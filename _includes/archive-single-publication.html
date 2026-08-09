@@ -12,8 +12,4 @@
   {% if post.citation %}
     <p class="publication-citation">{{ post.citation }}</p>
   {% endif %}
-
-  <div class="publication-content" itemprop="description">
-    {{ post.content | markdownify }}
-  </div>
 </article>

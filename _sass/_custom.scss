@@ -34,7 +34,7 @@
 
   .publication-card {
     margin-bottom: 0.5rem;
-    padding: 0.55rem 0.7rem;
+    padding: 0.45rem 0.65rem;
     border-radius: 6px;
     font-size: 0.86rem;
   }
@@ -46,18 +46,19 @@
   }
 
   .publication-meta,
-  .publication-citation,
-  .publication-content p {
+  .publication-citation {
     margin: 0.25rem 0;
-    line-height: 1.45;
+    line-height: 1.35;
   }
 
   .publication-meta {
     color: #5d6b76;
+    font-size: 0.78rem;
   }
 
   .publication-citation {
     color: #3f4d58;
+    font-size: 0.76rem;
   }
 }
 
