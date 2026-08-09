@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* **Wuhan University**, Wuhan, China (Sep 2022 - Present)  
+* **Wuhan University**, Wuhan, China (Sep 2022 - Jun 2026)  
   B.E. in Computer Science, Hongyi Honor College  
-  Expected graduation: Jun 2026  
+  Graduated: Jun 2026  
   GPA: **3.90/4.00** (91/100)
 
 Research Experience

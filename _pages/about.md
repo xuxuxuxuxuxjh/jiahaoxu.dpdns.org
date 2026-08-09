@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student in Computer Science at **Wuhan University** (Hongyi Honor College), expected to graduate in **June 2026**. My current work focuses on **AI for Medicine**, including medical image analysis and multimodal large language models (MLLMs).
+I graduated from **Wuhan University** (Hongyi Honor College) with a B.E. in Computer Science in **June 2026**. I am preparing to begin a Ph.D. in Computer Science and Engineering at the **Hong Kong University of Science and Technology (HKUST)**. My current work focuses on **AI for Medicine**, including medical image analysis and multimodal large language models (MLLMs).
 
 My long-term interest is building reliable and practical medical AI systems for real clinical scenarios, especially in image understanding, reasoning, and interaction.
 
@@ -19,7 +19,7 @@ Research Interests
 
 Education
 ======
-- **Wuhan University**, B.E. in Computer Science (Hongyi Honor College), Sep 2022 - Present  
+- **Wuhan University**, B.E. in Computer Science (Hongyi Honor College), Sep 2022 - Jun 2026  
   GPA: **3.90/4.00** (91/100)
 
 Selected Publications
@@ -29,7 +29,7 @@ Selected Publications
   [Paper](https://link.springer.com/chapter/10.1007/978-3-031-72114-4_35)
 
 - **SurgWound-Bench: A Benchmark for Surgical Wound Diagnosis**  
-  *npj Digital Medicine* (under review).  
+  *npj Digital Medicine* (accepted).  
   [Preprint](https://arxiv.org/abs/2508.15189)
 
 - **A Modular Multimodal Language Model for Radiation Oncology**  
