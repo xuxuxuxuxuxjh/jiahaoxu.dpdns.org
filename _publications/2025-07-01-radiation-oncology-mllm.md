@@ -13,3 +13,5 @@ citation: "Xu, J., Luo, J., Haouchine, N., Raymond, S. (2025). &quot;A Modular M
 This work presents a modular multimodal language model framework for radiation oncology workflows.
 
 The system is designed to support clinically relevant understanding and interaction tasks with practical deployment in mind.
+
+[Paper](https://doi.org/10.1109/nss/mic/rtsd57106.2025.11287135)

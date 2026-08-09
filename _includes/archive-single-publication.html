@@ -1,0 +1,19 @@
+{% include base_path %}
+
+{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+
+<article class="archive__item publication-card" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <h3 class="archive__item-title" itemprop="headline">
+    <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+  </h3>
+
+  <p class="publication-meta"><i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
+
+  {% if post.citation %}
+    <p class="publication-citation">{{ post.citation }}</p>
+  {% endif %}
+
+  <div class="publication-content" itemprop="description">
+    {{ post.content | markdownify }}
+  </div>
+</article>
