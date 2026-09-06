@@ -11,6 +11,9 @@ redirect_from:
 
 Education
 ======
+* **Hong Kong University of Science and Technology (HKUST)**, Hong Kong (Sep 2025 - Present)  
+  Ph.D. in Computer Science and Engineering, first-year student
+
 * **Wuhan University**, Wuhan, China (Sep 2022 - Jun 2026)  
   B.E. in Computer Science, Hongyi Honor College  
   Graduated: Jun 2026  
@@ -52,7 +55,7 @@ Skills
 ======
 * Programming: C/C++, Python, Java
 * Deep Learning: PyTorch
-* Focus Areas: Medical imaging, multimodal LLMs, medical reasoning
+* Focus Areas: Medical AI, medical imaging, multimodal foundation models, Agentic AI, medical reasoning
 * Tooling: OpenCompass, VLMEvalKit, Gradio
 
 Publications

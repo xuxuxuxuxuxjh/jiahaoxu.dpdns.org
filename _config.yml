@@ -12,7 +12,7 @@ site_theme               : "mint" # The available themes options are "default", 
 title                    : "Jiahao Xu"
 title_separator          : "-"
 name                     : &name "Jiahao Xu"
-description              : &description "AI for Medicine, Medical Image Analysis, and Multimodal LLMs"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "First-year Ph.D. student at HKUST researching Medical AI and Agentic AI"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://jiahaoxu.dpdns.org # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,8 +26,8 @@ author:
   avatar           : "https://jiahaoxu.dpdns.org/Jiahao.jpg"
   name             : "Jiahao Xu"
   pronouns         : # example: "she/her"  
-  bio              : "B.E. graduate of Wuhan University focusing on Medical AI and Multimodal LLMs."
-  location         : "Wuhan, China"
+  bio              : "First-year Ph.D. student at HKUST researching Medical AI and Agentic AI."
+  location         : "Hong Kong"
   employer         : "Hong Kong University of Science and Technology"
   uri              : # URL
   email            : "jiahaoxu@whu.edu.cn" 

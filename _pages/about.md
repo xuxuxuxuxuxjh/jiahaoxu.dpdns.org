@@ -7,18 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I graduated from **Wuhan University** (Hongyi Honor College) with a B.E. in Computer Science in **June 2026**. I am preparing to begin a Ph.D. in Computer Science and Engineering at the **Hong Kong University of Science and Technology (HKUST)**. My current work focuses on **AI for Medicine**, including medical image analysis and multimodal large language models (MLLMs).
+I am a **first-year Ph.D. student** in Computer Science and Engineering at the **Hong Kong University of Science and Technology (HKUST)**. I graduated from **Wuhan University** (Hongyi Honor College) with a B.E. in Computer Science in **June 2026**. My research focuses on **Medical AI** and **Agentic AI**, with an emphasis on medical image analysis, multimodal foundation models, and intelligent agents for healthcare.
 
-My long-term interest is building reliable and practical medical AI systems for real clinical scenarios, especially in image understanding, reasoning, and interaction.
+My long-term interest is building reliable and practical medical AI systems for real clinical scenarios, especially systems that can perceive, reason, interact, and act responsibly.
 
 Research Interests
 ======
 - Medical image analysis and segmentation
-- Multimodal large language models in medicine
-- Medical reasoning and benchmark/evaluation systems
+- Multimodal foundation models and large language models in medicine
+- Agentic AI for healthcare: tool use, planning, and clinical interaction
+- Medical reasoning, evaluation, and trustworthy deployment
 
 Education
 ======
+- **Hong Kong University of Science and Technology (HKUST)**, Ph.D. in Computer Science and Engineering, Sep 2025 - Present
 - **Wuhan University**, B.E. in Computer Science (Hongyi Honor College), Sep 2022 - Jun 2026  
   GPA: **3.91/4.00** (91/100)
 
